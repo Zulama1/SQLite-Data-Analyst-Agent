@@ -89,7 +89,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 ### 4. Database Setup
 
-Generate `dataset.db` from the sample spreadsheet:
+Generate `database.db` from the sample spreadsheet:
 
 ```bash
 python -m setup_db
